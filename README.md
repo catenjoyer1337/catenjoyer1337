@@ -1,16 +1,25 @@
-## Hi there 👋
+## Welcome to my profile 😺
 
-<!--
-**catenjoyer1337/catenjoyer1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer with a passion for creating efficient and innovative solutions.
 
-Here are some ideas to get you started:
+### 🏫 Languages I Know (ORDER BY * DESC):
+- **Python**
+- **PHP**
+- **SQLite/MySQL**
+- **JavaScript**
+- **C++**
+- **Lua**
+- **Java**
+- Currently exploring **Rust**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ My Notable Projects:
+- **[ZeroTier File Server](https://github.com/catenjoyer1337/zerotier-fileserver)**: A file-sharing system leveraging ZeroTier for seamless connectivity.
+- **[SyncObsidian](https://github.com/catenjoyer1337/syncObsidian)**: A program to sync your Obsidian notes from GitHub to your PC.
+- **[PHP Task & Reward System](https://github.com/catenjoyer1337/php-task-system)**: A point-based system for managing tasks and rewards.
+
+### 🤔 Future Plans:
+- Continue development on my **PHP Task & Reward System**.
+- Deep dive into **Rust** to write *blazingly fast* programs.
+- Build more innovative tools for productivity and task management.
+
+Always learning and ready for the next challenge 🚀.
