@@ -2,7 +2,7 @@
 
 I'm a developer with a passion for creating efficient and innovative solutions.
 
-### 🏫 Languages I Know (ORDER BY * DESC):
+### 🏫 Languages I Know (ORDER BY Knowledge DESC):
 - **Python**
 - **PHP**
 - **SQLite/MySQL**
