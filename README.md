@@ -1,25 +1,22 @@
-## Welcome to my profile 😺
+### Welcome 😺
+I’m a developer with a focus on creating practical, efficient solutions that get the job done.
 
-I'm a developer with a passion for creating efficient and innovative solutions.
+### 🛠️ Skills (ORDER BY Knowledge DESC):  
+- Python
+- PHP
+- SQLite/MySQL
+- JavaScript
+- C++
+- Lua
+- exploring Rust.
 
-### 🏫 Languages I Know (ORDER BY Knowledge DESC):
-- **Python**
-- **PHP**
-- **SQLite/MySQL**
-- **JavaScript**
-- **C++**
-- **Lua**
-- **Java**
-- Currently exploring **Rust**
+### ⭐ Notable Projects:
+- **[ZeroTier File Server](https://github.com/catenjoyer1337/zerotier-fileserver)**: A file-sharing system designed for users who can’t port forward, leveraging ZeroTier for seamless connectivity.
+- **[SyncObsidian](https://github.com/catenjoyer1337/syncObsidian)**: A tool to sync Obsidian notes from GitHub to your PC, built for simplicity and portability.
+- **[Sysinfo](https://github.com/catenjoyer1337/sysinfo)**: A Powershell script provides a quick and clean summary of your system's hardware and storage information.
 
-### ⭐ My Notable Projects:
-- **[ZeroTier File Server](https://github.com/catenjoyer1337/zerotier-fileserver)**: A file-sharing system leveraging ZeroTier for seamless connectivity.
-- **[SyncObsidian](https://github.com/catenjoyer1337/syncObsidian)**: A program to sync your Obsidian notes from GitHub to your PC.
-- **[PHP Task & Reward System](https://github.com/catenjoyer1337/php-task-system)**: A point-based system for managing tasks and rewards.
+### 🤔 What’s Next:  
+- Deepening my knowledge of Rust to build high-performance tools.
+- Making more utility tools to make life easier.
 
-### 🤔 Future Plans:
-- Continue development on my **PHP Task & Reward System**.
-- Deep dive into **Rust** to write *blazingly fast* programs.
-- Build more innovative tools for productivity and task management.
-
-Always learning and ready for the next challenge 🚀.
+Always improving, always learning 🚀
